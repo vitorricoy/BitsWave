@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1476059242
+#1476064858
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -39,6 +39,7 @@ images/bit_dancante_1-sheet0.png
 images/sombra-sheet0.png
 images/go-sheet0.png
 images/go-sheet1.png
+images/sprite-sheet0.png
 media/click.ogg
 media/collect.ogg
 media/errou.ogg
