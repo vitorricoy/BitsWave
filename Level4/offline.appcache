@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1476408519
+#1476409719
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -45,11 +45,5 @@ media/hit.ogg
 media/pulo.ogg
 media/wow.ogg
 media/m_level4.ogg
-icon-16.png
-icon-32.png
-icon-114.png
-icon-128.png
-icon-256.png
-loading-logo.png
 NETWORK:
 *
